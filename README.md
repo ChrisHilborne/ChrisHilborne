@@ -21,7 +21,7 @@ I'm a budding Java/Spring developer looking to get involved in projects and exci
 
 ## &#x1f4ca; GitHub Stats
 
-[![Chris Hilborne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishilborne&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris Hilborne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishilborne&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Chris Hilborne's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrishilborne&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
