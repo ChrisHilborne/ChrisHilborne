@@ -4,7 +4,7 @@
 
 I'm a budding Java/Spring developer looking to get involved in projects and excited to learn!
 
-## &#x1f6e0 Technologies & Tooling
+## &#x1f6e0; Technologies & Tooling
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&log=java&logoColor=white&color=2bbc8a)
@@ -19,6 +19,9 @@ I'm a budding Java/Spring developer looking to get involved in projects and exci
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
-## &#x1f4ca GitHub Stats
+## &#x1f4ca; GitHub Stats
 
-[![Chris Hilborne's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrishilborne&hide=stars,prs,issues,contribs,htlm,css&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris Hilborne's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Chris Hilborne's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrishilborne&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
