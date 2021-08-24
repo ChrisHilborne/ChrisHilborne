@@ -25,7 +25,7 @@ I'm a budding Java/Spring developer looking to get involved in projects and exci
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisHilborne&hide=html,css&langs_count=4" alt="Chris's Top Used Languages" />
 </a>
 <a href="https://github.com/ChrisHilborne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisHilborne&show_icons=true&count_private=true&" alt="Chris's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisHilborne&hide=stars&show_icons=true&count_private=true&" alt="Chris's GitHub Stats" />
 </a>
 <a href="https://github.com/ChrisHilborne/Madrid-Covid-Radar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=Madrid-Covid-Radar" />
