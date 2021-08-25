@@ -1,8 +1,12 @@
-<!-- Special thanks to Martin Heinz https://github.com/MartinHeinz for writing an excellent article for those looking to improve their GitHub profiles: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!-- Special thanks to Martin Heinz https://github.com/MartinHeinz for writing an excellent article for those looking to improve their GitHub profile README.md: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 # Hello everyone!
 
 I'm a budding Java/Spring developer looking to get involved in projects and excited to learn!
+
+<a href=”www.linkedin.com/in/christopher-hilborne>
+  <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
 
 ## &#x1f6e0; Technologies & Tooling
 
