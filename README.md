@@ -3,12 +3,10 @@
 # Hello everyone!
 
 I'm a budding Java/Spring developer looking to get involved in projects and excited to learn!
-
-<p> 
-  <a href="https://www.linkedin.com/in/christopher-hilborne">
-    <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge">
-  </a>
-</p>
+ 
+<a href="https://www.linkedin.com/in/christopher-hilborne">
+  <img src=”https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue" alt="LinkedIn Badge">
+</a>
 
 ## &#x1f6e0; Technologies & Tooling
 
