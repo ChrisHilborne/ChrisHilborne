@@ -4,9 +4,11 @@
 
 I'm a budding Java/Spring developer looking to get involved in projects and excited to learn!
 
-<a href=”www.linkedin.com/in/christopher-hilborne>
-  <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
+<p> 
+  <a href=”www.linkedin.com/in/christopher-hilborne>
+    <img align="centre" src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge">
+  </a>
+</p>
 
 ## &#x1f6e0; Technologies & Tooling
 
