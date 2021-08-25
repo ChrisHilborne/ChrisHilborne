@@ -5,8 +5,8 @@
 I'm a budding Java/Spring developer looking to get involved in projects and excited to learn!
 
 <p> 
-  <a href=”www.linkedin.com/in/christopher-hilborne>
-    <img align="centre" src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge">
+  <a href="https://www.linkedin.com/in/christopher-hilborne">
+    <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge">
   </a>
 </p>
 
