@@ -11,7 +11,7 @@ I'm a budding Java/Spring developer looking to get involved in projects and exci
 ## &#x1f6e0; Technologies & Tooling
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2f80ed)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&log=java&logoColor=white&color=2f80ed)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2f80ed)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2f80ed)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2f80ed)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2f80ed)
@@ -34,6 +34,6 @@ I'm a budding Java/Spring developer looking to get involved in projects and exci
 <a href="https://github.com/ChrisHilborne/Madrid-Covid-Radar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=Madrid-Covid-Radar" />
 </a>
-<a href="https://github.com/ChrisHilborne/to-ad-api">
+<a href="https://github.com/ChrisHilborne/to-do-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=to-do-api" />
 </a>
