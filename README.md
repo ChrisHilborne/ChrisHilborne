@@ -2,7 +2,7 @@
 
 # Hello everyone!
 
-I'm a budding Java/Spring developer looking to get involved in projects and excited to learn!
+I'm a budding Java/Spring developer looking to get involved in projects and excited to learn! I'm based in Madrid, Spain.
  
 <a href="https://www.linkedin.com/in/christopher-hilborne">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue" alt="LinkedIn Badge">
@@ -26,17 +26,17 @@ I'm a budding Java/Spring developer looking to get involved in projects and exci
 ## &#x1f4ca; GitHub Stats
 
 <a href="https://github.com/ChrisHilborne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisHilborne&hide=html,css&langs_count=4" alt="Chris's Top Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisHilborne&hide=html,css&langs_count=4&theme=github_dark" alt="Chris's Top Used Languages" />
 </a>
 <a href="https://github.com/ChrisHilborne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisHilborne&custom_title=Stats&hide=stars&show_icons=true&count_private=true&" alt="Chris's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisHilborne&custom_title=Stats&hide=stars&show_icons=true&count_private=true&theme=github_dark" alt="Chris's GitHub Stats" />
 </a>
 <a href="https://github.com/ChrisHilborne/Madrid-Covid-Radar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=Madrid-Covid-Radar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=Madrid-Covid-Radar&theme=github_dark" />
 </a>
 <a href="https://github.com/ChrisHilborne/to-do-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=to-do-api" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=to-do-api&theme=github_dark" />
 </a>
 <a href="https://github.com/ChrisHilborne/Madrid-Covid-Radar-Frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=Madrid-Covid-Radar-Frontend" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=Madrid-Covid-Radar-Frontend&theme=github_dark" />
 </a>
