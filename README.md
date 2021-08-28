@@ -37,3 +37,6 @@ I'm a budding Java/Spring developer looking to get involved in projects and exci
 <a href="https://github.com/ChrisHilborne/to-do-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=to-do-api" />
 </a>
+<a href="https://github.com/ChrisHilborne/Madrid-Covid-Radar-Frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=Madrid-Covid-Radar-Frontend" />
+</a>
