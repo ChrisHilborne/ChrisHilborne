@@ -34,12 +34,3 @@ I'm a budding Java/Spring developer looking to get involved in projects and exci
 <a href="https://github.com/ChrisHilborne">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisHilborne&custom_title=Stats&hide=stars&show_icons=true&count_private=true&theme=github_dark" alt="Chris's GitHub Stats" />
 </a>
-<a href="https://github.com/ChrisHilborne/Madrid-Covid-Radar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=Madrid-Covid-Radar&theme=github_dark" />
-</a>
-<a href="https://github.com/ChrisHilborne/to-do-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=to-do-api&theme=github_dark" />
-</a>
-<a href="https://github.com/ChrisHilborne/Madrid-Covid-Radar-Frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisHilborne&repo=Madrid-Covid-Radar-Frontend&theme=github_dark" />
-</a>
